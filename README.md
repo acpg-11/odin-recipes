@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is a basic recipes website mock-up to demonstrate basic knowledge f basic HTML skills.
+This is a basic recipes website mock-up to demonstrate basic knowledge of basic HTML skills.
